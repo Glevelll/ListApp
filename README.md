@@ -15,3 +15,9 @@ Coil
 Room
 
 Retrofit
+
+Clean Architecture
+
+Dagger Hilt
+
+MVVM
